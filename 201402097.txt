@@ -1,2 +1,2 @@
-Nama : Nayla Rahmi Nasution
-NIM : 201402097
+Nama = Nayla Rahmi Nasution
+NIM = 201402097
